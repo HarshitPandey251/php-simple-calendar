@@ -9,7 +9,7 @@ This PHP 7.3+ package generates a 7 x 6 (42) or 7 x 5 (35) element array of the 
 
 It automatically pads the beginning/end of the month with dates from the previous/next month. It can optionally pad with `null` instead.
 
-While it does not include an UI, you may use the generated matrix to build a month-grid calendar in the front-end technology of your choice. 
+While it does not include an UI, you may use the generated matrix to build a month-grid simple calendar in the front-end technology of your choice. 
 
 **NOTE** For now, at least, weeks start with Monday.
 
